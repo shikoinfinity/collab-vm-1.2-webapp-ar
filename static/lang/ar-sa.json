@@ -1,7 +1,7 @@
 {
 	"languageName": "العربية",
 	"translatedLanguageName": "Arabic",
-	"flag": "",
+	"flag": "🇸🇦",
 	"author": "shikoinfinity",
 
 	"stringKeys": {
@@ -75,7 +75,7 @@
 
 		"kError_UnexpectedDisconnection": "تم الغاء اتصالك من السيرفر.",
 		"kError_UsernameTaken": "اسم المستخدم موجود بالفعل",
-		"kError_UsernameInvalid": "Usernames can contain only numbers, letters, spaces, dashes, underscores, and dots, and it must be between 3 and 20 characters.",
+		"kError_UsernameInvalid": "اسم المستخدم يمكن ان يتضمن فقط ارقام و حروف و مسافات و شرط و شرط سفلية ونقط ويجب ان يكون بين 3 و 20 حرف",
 		"kError_UsernameBlacklisted": "اسم المستخدم موجود في القائمة السوداء",
 		"kError_IncorrectPassword": "كلمة المرور غير صحيحة.",
 
@@ -91,9 +91,9 @@
 
 		"kMissingCaptcha": "ارجو املاء Captcha",
 		"kPasswordsMustMatch": "كلمات المرور غير متطابقة",
-		"kAccountModal_VerifyText": "We sent an E-Mail to {0}. To verify your account, please enter the 8-digit code from the E-Mail below.",
-		"kAccountModal_VerifyPasswordResetText": "We sent an E-Mail to {0}. To reset your password, please enter the 8-digit code from the E-Mail below.",
-		"kAccountModal_PasswordResetSuccess": "Your password has been changed successfully. You can now log in with your new password.",
+		"kAccountModal_VerifyText": "لقد ارسلنا رسالة الي بريدك الالكتروني {0} لأثبات الملكية .. يرجي ادخال الرمز المكون من 6 ارقام في الخانة الموجودة اسفل.",
+		"kAccountModal_VerifyPasswordResetText": "لقد ارسلنا رسالة الي بريدك الالكتروني {0} لأعادة تعيين كلمة المرور .. يرجي ادخال الرمز المكون من 6 ارقام في الخانة الموجودة اسفل.",
+		"kAccountModal_PasswordResetSuccess": "تم اعادة تعيين كلمة المرور يمكنك الآن تسجيل الدخول بكلمة المرور الجديدة.",
 
 		"kNotLoggedIn": "لست مسجل دخول"
 	}
